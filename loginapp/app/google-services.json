@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245163596422",
+    "project_id": "loreaap-5b211",
+    "storage_bucket": "loreaap-5b211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245163596422:android:164f9dab3a1afa341a0f07",
+        "android_client_info": {
+          "package_name": "com.loreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245163596422-j2274cuaj9oetrn7sk7m8t6ptqpinrfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpUKG8ADzhOZuXJIlZC_2nWxTapogvVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245163596422-j2274cuaj9oetrn7sk7m8t6ptqpinrfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
